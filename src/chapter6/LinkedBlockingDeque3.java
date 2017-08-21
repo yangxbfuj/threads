@@ -1,7 +1,5 @@
 package chapter6;
 
-import org.omg.CORBA.TIMEOUT;
-
 import java.util.Date;
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.TimeUnit;
@@ -10,7 +8,7 @@ import utils.PrintUtil;
 
 /**
  * 阻塞式列表在插入和删除时.如果列表为空,或者已满,操作不会立即执行,而是将
- * 调用这个操作的线程阻塞队列知道操作可以执行成功.
+ * 调用这个操作的线程阻塞队列直到操作可以执行成功.
  * <p>
  * 引入 LinkedBlockingDeque
  */
