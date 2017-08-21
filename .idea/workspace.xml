@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="276656a8-f910-4a07-8628-a615653ebe6b" name="Default" comment="" />
+    <list default="true" id="276656a8-f910-4a07-8628-a615653ebe6b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,95 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RejectedDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter4/rejected/RejectedDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threads.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/threads.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1503279604000" expanded="true" signature="32676:32777" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32676:32792" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32676:33784" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32676:33799" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32676:32757" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32676:32723" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32676:32701" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32827:33140" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32846:33125" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32920:33105" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32960:33071" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="32981:33049" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33192:33457" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33211:33442" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33244:33422" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33284:33388" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33305:33366" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33505:33770" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33524:33755" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33557:33735" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33597:33701" ph="..." />
-                <marker date="1503279604000" expanded="true" signature="33618:33679" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AsyncTask4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5/AsyncTask4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,6 +52,7 @@
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.ignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -365,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503278590967</updated>
-      <workItem from="1503278592409" duration="1043000" />
+      <workItem from="1503278592409" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1043000" />
+    <option name="totallyTimeSpent" value="1211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -447,28 +370,28 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503279604000" expanded="true" signature="32676:32777" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32676:32792" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32676:33784" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32676:33799" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32676:32757" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32676:32723" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32676:32701" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32827:33140" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32846:33125" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32920:33105" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32960:33071" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="32981:33049" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33192:33457" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33211:33442" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33244:33422" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33284:33388" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33305:33366" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33505:33770" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33524:33755" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33557:33735" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33597:33701" ph="..." />
-            <marker date="1503279604000" expanded="true" signature="33618:33679" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:32808" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:32823" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:33815" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:33830" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:32788" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:32754" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32707:32732" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32858:33171" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32877:33156" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32951:33136" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="32991:33102" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33012:33080" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33223:33488" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33242:33473" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33275:33453" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33315:33419" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33336:33397" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33536:33801" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33555:33786" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33588:33766" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33628:33732" ph="..." />
+            <marker date="1503279636000" expanded="true" signature="33649:33710" ph="..." />
           </folding>
         </state>
       </provider>
@@ -481,23 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/rejected/RejectedDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/threads.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -518,6 +425,33 @@
         <state relative-caret-position="18">
           <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/rejected/RejectedDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
